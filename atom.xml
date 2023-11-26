@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yuntong Guo</title>
   
-  
+  <subtitle>My personal blog</subtitle>
   <link href="https://yuntongguo.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuntongguo.github.io/"/>
