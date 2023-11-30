@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yuntongguo.github.io/11/29/2023/VEX-writeup/</loc>
+    
+    <lastmod>2023-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuntongguo.github.io/11/29/2023/Asian-Culture-Club-Diwali/</loc>
+    
+    <lastmod>2023-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yuntongguo.github.io/AIPicture/index.html</loc>
     
     <lastmod>2023-11-26</lastmod>
@@ -67,11 +85,25 @@
 
   <url>
     <loc>https://yuntongguo.github.io/</loc>
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://yuntongguo.github.io/tags/VEX-coding/</loc>
+    <lastmod>2023-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://yuntongguo.github.io/tags/Asian-Culture-Clunb/</loc>
+    <lastmod>2023-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
