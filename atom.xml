@@ -6,7 +6,7 @@
   <link href="https://yuntongguo.github.io/atom.xml" rel="self"/>
   
   <link href="https://yuntongguo.github.io/"/>
-  <updated>2023-11-30T05:11:30.335Z</updated>
+  <updated>2023-12-01T05:34:41.801Z</updated>
   <id>https://yuntongguo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yuntongguo.github.io/11/29/2023/VEX-writeup/"/>
     <id>https://yuntongguo.github.io/11/29/2023/VEX-writeup/</id>
     <published>2023-11-30T05:00:51.000Z</published>
-    <updated>2023-11-30T05:11:30.335Z</updated>
+    <updated>2023-12-01T05:34:41.801Z</updated>
     
     
       
@@ -35,7 +35,9 @@
     
     
     
-    <category term="VEX,coding" scheme="https://yuntongguo.github.io/tags/VEX-coding/"/>
+    <category term="VEX" scheme="https://yuntongguo.github.io/tags/VEX/"/>
+    
+    <category term="coding" scheme="https://yuntongguo.github.io/tags/coding/"/>
     
   </entry>
   
